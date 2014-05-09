@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is for testing
+Hi there,
+
+this is my testing for learning.
